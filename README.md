@@ -6,10 +6,13 @@
 
 ## 截屏
 勾选会话栏就能将相应的用户加入收信人列表，在没有将对方加入通讯录的情况下批量回复短信显得尤为方便。
+
 ![alt text](https://raw.githubusercontent.com/BoliLi/GroupReply/master/screenshots/Screenshot1.png "勾啊勾")
 
 分批定时在后台发送，编辑完了就可以放一边了哦
+
 ![alt text](https://raw.githubusercontent.com/BoliLi/GroupReply/master/screenshots/Screenshot2.png "正在后台发送哦")
 
-有问题，找LBL。 Y(^o^)Y
+有问题，找LBL：frant1c@icloud.com。 Y(^o^)Y
+
 ![alt text](https://raw.githubusercontent.com/BoliLi/GroupReply/master/screenshots/Screenshot3.png "mail me~")
