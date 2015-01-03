@@ -56,7 +56,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="frantic.li.bl@gmail.com"
+        android:text="frant1c@icloud.com"
         android:id="@+id/textView6"
         android:layout_marginTop="19dp"
         android:layout_alignTop="@+id/textView4"
